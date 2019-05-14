@@ -3,7 +3,7 @@ import {Link} from 'react-router';
 
 export default class Menu extends React.Component {
     render() {
-        return (
+        return  (
             <div>
                 <nav className='navbar navbar-expand-lg navbar-light bg-light'>
                     <div className='container'>
